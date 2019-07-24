@@ -52,4 +52,4 @@ targets:
     name: RHEL8
     type: centos
     virt: hvc
-    name: ec2-user
+    user: ec2-user
